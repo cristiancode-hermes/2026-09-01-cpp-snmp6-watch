@@ -1,0 +1,7 @@
+# annotated dump from a dual-stack IPv6 host (comments tolerated)
+# subset used by the README --file workflow
+Ip6InReceives                  	1245
+Ip6InOctets                    	98000
+Icmp6InNeighborSolicits        	42
+Udp6NoPorts                    	7
+UdpLite6InDatagrams            	0
